@@ -40,24 +40,19 @@ if (typeof(Storage) !== "undefined") {
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing.oog" type="audio/oog" /> 
 </audio> 
-</p>
 <p><h3>aerosmith - I Don't Wanna Miss a Thing (up Pitch)<h3>
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - Up Pitch.oog" type="audio/oog" /> 
 </audio> 
-</p>
 <p><h3>aerosmith - I Don't Wanna Miss a Thing (down Pitch)<h3>
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - down Pitch.oog" type="audio/oog" /> 
 </audio> 
-</p>
 <p><h3>aerosmith - I Don't Wanna Miss a Thing (up tempo)<h3>
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - up Tempo.oog" type="audio/oog" /> 
 </audio> 
-</p>
 <p><h3>aerosmith - I Don't Wanna Miss a Thing (down tempo)<h3>
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - down tempo.oog" type="audio/oog" /> 
 </audio>
-</p>
