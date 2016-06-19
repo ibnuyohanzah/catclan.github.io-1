@@ -15,29 +15,28 @@ organiser: "Ibnuyohanzah ahmad"
 
 ---
 
-"img/11.jpg"
 
 - **aerosmith - I Don't Wanna Miss a Thing**
 <audio controls="controls">
-  <source src="mp3/Aerosmith - I Don't Wanna Miss a Thing.mp3" type="audio/mpeg" /> 
+  <source src="img/Aerosmith - I Don't Wanna Miss a Thing.mp3" type="audio/mpeg" /> 
 </audio> 
 
 - **aerosmith - I Don't Wanna Miss a Thing** (up Pitch)
 <audio controls="controls">
-  <source src="mp3/Aerosmith - I Don't Wanna Miss a Thing - Up Pitch.mp3" type="audio/mpeg" /> 
+  <source src="img/Aerosmith - I Don't Wanna Miss a Thing - Up Pitch.mp3" type="audio/mpeg" /> 
 </audio> 
 
-- aerosmith - I Don't Wanna Miss a Thing (down Pitch)
+- **aerosmith - I Don't Wanna Miss a Thing** (down Pitch)
 <audio controls="controls">
-  <source src="mp3/Aerosmith - I Don't Wanna Miss a Thing - down Pitch.mp3" type="audio/mpeg" /> 
+  <source src="img/Aerosmith - I Don't Wanna Miss a Thing - down Pitch.mp3" type="audio/mpeg" /> 
 </audio> 
 
-- aerosmith - I Don't Wanna Miss a Thing (up tempo)
+- **aerosmith - I Don't Wanna Miss a Thing** (up tempo)
 <audio controls="controls">
-  <source src="mp3/Aerosmith - I Don't Wanna Miss a Thing - up Tempo.mp3" type="audio/mpeg" /> 
+  <source src="img/Aerosmith - I Don't Wanna Miss a Thing - up Tempo.mp3" type="audio/mpeg" /> 
 </audio> 
 
-- aerosmith - I Don't Wanna Miss a Thing (down tempo)
+- **aerosmith - I Don't Wanna Miss a Thing** (down tempo)
 <audio controls="controls">
-  <source src="mp3/Aerosmith - I Don't Wanna Miss a Thing - down tempo.mp3" type="audio/mpeg" /> 
+  <source src="img/Aerosmith - I Don't Wanna Miss a Thing - down tempo.mp3" type="audio/mpeg" /> 
 </audio> 
