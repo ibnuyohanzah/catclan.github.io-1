@@ -25,7 +25,7 @@ organiser: "Ibnuyohanzah ahmad"
 </html>
 <p>Westlife - My love<br> tanpa fate in dan Fat out <br>
 
-<p><h3>aerosmith - I Don't Wanna Miss a Thing<h3>
+<p>aerosmith - I Don't Wanna Miss a Thing
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing.oog" type="audio/oog" /> 
   Your browser does not support the audio element.
