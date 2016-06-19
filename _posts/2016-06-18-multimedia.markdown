@@ -32,6 +32,9 @@ if (typeof(Storage) !== "undefined") {
 }
 </script>
 
+ </body>
+</html>
+
 <video src="img/Aerosmith - I Don't Wanna Miss a Thing vidoe.oog" width="320" height="240" controls="controls">
 </video>
 
@@ -59,11 +62,8 @@ if (typeof(Storage) !== "undefined") {
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - up Tempo.oog" type="audio/oog" /> 
 </audio> 
 
-<h3>aerosmith - I Don't Wanna Miss a Thing** (down tempo<h3>
+<h3>aerosmith - I Don't Wanna Miss a Thing (down tempo)<h3>
 
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - down tempo.oog" type="audio/oog" /> 
-</audio> 
-
- </body>
-</html>
+</audio>
