@@ -1,0 +1,28 @@
+CACHE MANIFEST
+# 2010-06-18:v2
+
+CACHE:
+index.html
+img/SIF14F Wallpaper.jpg
+img/SIF14F Wallpaperkw2.jpg
+img/SIF14F Wallpaperkw3.jpg
+img/downloads-bg.jpg
+img/intro-bg.jpg
+mp3/American author-best day of my life(224kbps) amplify.mp3
+mp3/American author-best day of my life(224kbps).mp3
+mp3/American author-best day of my life(224kbps)fast cepat.mp3
+mp3/American author-best day of my life(224kbps)suara anak anak cipmunks.mp3
+mp3/American author-best day of my life(32kbps).mp3
+mp3/American author-best day of my life(64kbps).mp3
+mp3/American author-best day of my life(8kbps).mp3
+htaccess.htaccess
+
+# Resources that require the user to be online.
+NETWORK:
+*
+
+# static.html will be served if main.py is inaccessible
+# offline.jpg will be served in place of all images in images/large/
+# offline.html will be served in place of all other .html files
+FALLBACK:
+index.html
