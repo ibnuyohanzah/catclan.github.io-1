@@ -20,20 +20,10 @@ organiser: "Ibnuyohanzah ahmad"
 
 <div id="result"></div>
 
-<script>
-// Check browser support
-if (typeof(Storage) !== "undefined") {
-    // Store
-    localStorage.setItem("Aerosmith", "I Don't Wanna Miss a Thing");
-    // Retrieve
-    document.getElementById("result").innerHTML = localStorage.getItem("lastname");
-} else {
-    document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage...";
-}
-</script>
 
  </body>
 </html>
+<p>Westlife - My love<br> tanpa fate in dan Fat out <br>
 
 <p><h3>aerosmith - I Don't Wanna Miss a Thing<h3>
 <audio controls="controls">
