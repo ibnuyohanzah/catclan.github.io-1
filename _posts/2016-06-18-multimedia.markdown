@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "musik"
-cover: "/img/foto3.jpg"
+cover: "/img/11.jpg"
 date:   2016-01-05
 start_time: "12:00"
 end_time: "13:00"
@@ -15,7 +15,7 @@ organiser: "Ibnuyohanzah ahmad"
 
 ---
 
-<img src="img/11.jpg"></img>
+"img/11.jpg"
 
 - **aerosmith - I Don't Wanna Miss a Thing**
 <audio controls="controls">
