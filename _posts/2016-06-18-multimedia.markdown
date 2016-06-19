@@ -24,7 +24,7 @@ organiser: "Ibnuyohanzah ahmad"
 // Check browser support
 if (typeof(Storage) !== "undefined") {
     // Store
-    localStorage.setItem("Westlife", "Mylove");
+    localStorage.setItem("Aerosmith", "I Don't Wanna Miss a Thing");
     // Retrieve
     document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 } else {
@@ -32,38 +32,38 @@ if (typeof(Storage) !== "undefined") {
 }
 </script>
 
- </body>
-</html>
-
 <video src="img/Aerosmith - I Don't Wanna Miss a Thing vidoe.oog" width="320" height="240" controls="controls">
 </video>
 
-- **aerosmith - I Don't Wanna Miss a Thing**
+<h3>aerosmith - I Don't Wanna Miss a Thing<h3>
 
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing.oog" type="audio/oog" /> 
 </audio> 
 
-- **aerosmith - I Don't Wanna Miss a Thing** (up Pitch)
+<h3>aerosmith - I Don't Wanna Miss a Thing (up Pitch)<h3>
 
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - Up Pitch.oog" type="audio/oog" /> 
 </audio> 
 
-- **aerosmith - I Don't Wanna Miss a Thing** (down Pitch)
+<h3>aerosmith - I Don't Wanna Miss a Thing (down Pitch)<h3>
 
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - down Pitch.oog" type="audio/oog" /> 
 </audio> 
 
-- **aerosmith - I Don't Wanna Miss a Thing** (up tempo)
+<h3>aerosmith - I Don't Wanna Miss a Thing (up tempo)<h3>
 
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - up Tempo.oog" type="audio/oog" /> 
 </audio> 
 
-- **aerosmith - I Don't Wanna Miss a Thing** (down tempo
+<h3>aerosmith - I Don't Wanna Miss a Thing** (down tempo<h3>
 
 <audio controls="controls">
   <source src="img/Aerosmith - I Don't Wanna Miss a Thing - down tempo.oog" type="audio/oog" /> 
 </audio> 
+
+ </body>
+</html>
