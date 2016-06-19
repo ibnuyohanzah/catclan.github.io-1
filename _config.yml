@@ -1,0 +1,33 @@
+# Evento Theme/Blog
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: UIN SUSKA SISTEM INFORMASI
+
+#What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
+event_label : UIN SUSKA
+
+description: > # this means to ignore newlines until "baseurl:"
+  UIN SUSKA Universitas Islam Negeri Sultan Syarif Kasim atau Jl. Subrantas Km. 15, Pekanbaru, 28293 Telp(0761-562223)  Email(humas@uin-suska.ac.id).
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+#These settings might be able to go?
+author: Ibnuyohanzah Ahmad
+twitter_username: iyon
+github_username:  ibnuyohanzah.github.io
+company_name: Sistem Informasi
+
+# Build settings
+markdown: kramdown
+
+#Have to show future posts for future events.
+future: true
+
+permalink: /event/:title.html
+
